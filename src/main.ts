@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import"bootstrap-icons/font/bootstrap-icons.min.css"
 import 'bootstrap'
 import { createApp } from 'vue'
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import App from './App.vue'
 
 import home from "./components/home.vue"
@@ -20,7 +20,7 @@ const routes = [
   { path: '/cv', component: cv }
 ]
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes
 })
 app.use(router)

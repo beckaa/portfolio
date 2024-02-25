@@ -21,7 +21,7 @@
       <div class="card">
         <img src="../assets/qquiz.png" class="card-img-top">
         <a href="https://beckaa.github.io/QQuizzer/webglBuild/index.html" style="color:white;"><h4 class="card-title">QQuizzer</h4></a>
-        <h5 class="card-subtitle">University project with JavaScript</h5>
+        <h5 class="card-subtitle"></h5>
       </div>
     </div>
     </div>

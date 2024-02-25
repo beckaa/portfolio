@@ -9,7 +9,7 @@
 
       <br />
       <i class="bi bi-search"></i>At
-      the moment I am looking for a job in game or web development.
+      the moment I am looking for a job in game, software or web development.
 
       <br /><i
         class="bi bi-binoculars-fill"
@@ -17,7 +17,7 @@
       ></i
       >If you like this page and are interested in me as a person, then continue exploring.
     </p>
-    <router-link to="./about" class="btn btn-primary btn-lg">Get to know me !!</router-link>
+    <router-link to="/about" class="btn btn-primary btn-lg">Get to know me !!</router-link>
     <div id="developing-info">Developed with:
     <svg
       height="auto"

@@ -6,7 +6,7 @@
       <img src="../assets/me.jpg" id="mypicture" />
       <p>
         Hi, I am Anja. Recently, I graduated with a bachelor's degree from the University of
-        Stuttgart. I am looking for a job in game or web development to further enhance my skills.
+        Stuttgart. I am looking for a job in game, software or web development to further enhance my skills.
         In my studies I could gather the skills shown in the section below. <br /><br />
         If you are interested in working with me you can leave me message <br />
         <a href="https://www.linkedin.com/in/beckanja"
@@ -19,7 +19,7 @@
           anjabeck@protonmail.com</a
         >
         <br />
-        Are you interested in my education path? Look <router-link to="./cv">Here</router-link>.
+        Are you interested in my education path? Look <router-link to="/cv">Here</router-link>.
       </p>
     </div>
     <h1>My Skills</h1>
@@ -107,7 +107,7 @@
           <img src="../assets/ProgrammingIm.jpg" class="card-img-top" />
           <h4 class="card-title"><i class="bi bi-file-code"></i>Minigame Programming</h4>
           <div class="card-text" style="text-align: center; margin-top: 1.5rem">
-            <router-link to="./projects.vue" class="btn btn-primary">Go to Projects</router-link>
+            <router-link to="/projects" class="btn btn-primary">Go to Projects</router-link>
           </div>
         </div>
       </div>
