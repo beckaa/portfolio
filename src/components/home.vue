@@ -42,7 +42,11 @@
     </div>
   </div>
 </template>
-<script lang="ts"></script>
+<script lang="ts">import { defineComponent } from "vue";
+
+export default defineComponent({
+  name: "home"
+})</script>
 
 <style scoped>
 h1{

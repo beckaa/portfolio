@@ -1,3 +1,13 @@
+<script lang="ts">
+import { defineComponent } from 'vue'
+
+export default defineComponent({
+  setup() {
+    name: "cv"
+  },
+})
+</script>
+
 <template>
   <div id="cv-content">
     <h1>Education</h1>

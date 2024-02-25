@@ -3,7 +3,7 @@
     <h1>About Me</h1>
     <h5 id="quote">"Choose a job you love and you will never have to work a day"- Konfuzius</h5>
     <div id="about-information">
-      <img src="../assets/me.JPG" id="mypicture" />
+      <img src="../assets/me.jpg" id="mypicture" />
       <p>
         Hi, I am Anja. Recently, I graduated with a bachelor's degree from the University of
         Stuttgart. I am looking for a job in game or web development to further enhance my skills.
@@ -115,7 +115,13 @@
   </div>
 </template>
 
-<script lang="ts"></script>
+<script lang="ts">
+import { defineComponent } from "vue";
+
+export default defineComponent({
+  name: "about"
+})
+</script>
 
 <style scoped>
 .text-bg-primary {

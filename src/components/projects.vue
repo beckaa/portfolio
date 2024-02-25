@@ -28,7 +28,12 @@
     <h5 style="margin-bottom: 5rem;">More to come....</h5>
   </div>
 </template>
-<script lang="ts"></script>
+<script lang="ts">
+import { defineComponent } from "vue";
+
+export default defineComponent({
+  name: "projects"
+})</script>
 <style scoped>
 #pro-container{
   display: flex;
