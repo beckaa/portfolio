@@ -34,6 +34,7 @@
           <span class="badge rounded-pill text-bg-primary">HTML</span>
           <span class="badge rounded-pill text-bg-primary">CSS</span>
           <span class="badge rounded-pill text-bg-primary">JavaScript</span>
+          <span class="badge rounded-pill text-bg-primary">SQL</span>
         </p>
       </div>
 
