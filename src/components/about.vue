@@ -209,5 +209,6 @@ h4 {
   margin: 2vh 15vw 1vh 15vw;
   animation-name: appear;
   animation-duration: 4.5s;
+  animation-fill-mode: both;
 }
 </style>
