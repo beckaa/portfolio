@@ -14,6 +14,11 @@ import navigation from './components/navigation.vue'
 </template>
 
 <style>
+@keyframes appear{
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
 .btn-primary{
   background-color: rgb(1, 157, 89);
   border: rgba(14, 63, 1, 0.003);

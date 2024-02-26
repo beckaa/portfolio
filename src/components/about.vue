@@ -1,6 +1,6 @@
 <template>
   <div id="about-content">
-    <h1>About Me</h1>
+    <h1 id="firstH">About Me</h1>
     <h5 id="quote">"Choose a job you love and you will never have to work a day"- Konfuzius</h5>
     <div id="about-information">
       <img src="../assets/me.jpg" id="mypicture" />
@@ -22,7 +22,7 @@
         Are you interested in my education path? Look <router-link to="/cv">Here</router-link>.
       </p>
     </div>
-    <h1>My Skills</h1>
+    <h1 id="secondH">My Skills</h1>
     <div id="skills">
       <div class="field">
         <h6>Programming Languages</h6>
@@ -80,7 +80,7 @@
       </div>
     </div>
 
-    <h1>My favourite Activities</h1>
+    <h1 id="thirdH">My favourite Activities</h1>
     <div id="grid-container">
       <div class="card">
         <div class="card-body">
@@ -157,6 +157,7 @@ a {
   border-radius: 10px;
   padding: 1rem;
 }
+
 #mypicture {
   width: 200px;
   border-radius: 10px;
@@ -206,5 +207,7 @@ h4 {
   text-align: left;
   justify-content: center;
   margin: 2vh 15vw 1vh 15vw;
+  animation-name: appear;
+  animation-duration: 4.5s;
 }
 </style>

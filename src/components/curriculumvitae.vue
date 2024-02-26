@@ -73,6 +73,8 @@ export default defineComponent({
   justify-content: center;
   margin: 2vh 15vw 1vh 15vw;
   color: white;
+  animation-name: appear;
+  animation-duration: 5s;
 }
 .bi {
   font-size: 3rem;
