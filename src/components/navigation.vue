@@ -2,7 +2,7 @@
   <nav class="nav nav-pills nav-fill flex-column flex-sm-row">
     <router-link to="/" class="nav-link">Home</router-link>
     <router-link to="/about" class="nav-link">About Me</router-link>
-    <router-link to="/cv" class="nav-link">Curriculum Vitae</router-link>
+    <router-link to="/cv" class="nav-link">Education</router-link>
     <router-link to="/projects" class="nav-link">My Projects</router-link>
   </nav>
 </template>
