@@ -1,7 +1,7 @@
 <template>
   <div id="about-content">
     <h1>About Me</h1>
-    <h5 id="quote">"Choose a job you love and you will never have to work a day"- Konfuzius</h5>
+    <h4 id="quote"><q>To be successful, you only need one chance.</q> - Jesse Owens</h4>
     <div id="about-information">
       <img src="../assets/me.jpg" id="mypicture" />
       <p>
@@ -125,6 +125,15 @@ export default defineComponent({
 </script>
 
 <style scoped>
+#quote{
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+  font-size: 3rem;
+  background: -webkit-linear-gradient(left,rgb(132, 132, 132) 30%,rgb(220, 220, 220) 50%, rgb(95, 94, 94) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
 .text-bg-primary {
   color: white !important;
   background-color: rgb(7, 135, 135) !important;
@@ -172,14 +181,7 @@ h1 {
   margin-bottom: 3rem;
   text-align: center;
 }
-#quote {
-  color: rgba(255, 255, 255, 0.845);
-  font-family: Copperplate, Papyrus, fantasy;
-  font-size: 2rem;
-  font-style: oblique;
-  margin-bottom: 5vh;
-  text-align: center;
-}
+
 h4 {
   color: white;
 }
