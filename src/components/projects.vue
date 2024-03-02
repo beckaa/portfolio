@@ -34,6 +34,15 @@
           <h5 class="card-subtitle"></h5>
         </div>
       </div>
+      <div class="project">
+        <div class="card">
+          <img src="../assets/snake.png" class="card-img-top" />
+          <a href="https://beckaa.github.io/Snake/" style="color: white"
+            ><h4 class="card-title">Snake</h4></a
+          >
+          <h5 class="card-subtitle"></h5>
+        </div>
+      </div>
     </div>
     <h5 style="margin-bottom: 5rem">More to come....</h5>
   </div>
