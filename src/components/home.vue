@@ -10,7 +10,7 @@
 
       <br />
       <i class="bi bi-search"></i>At
-      the moment I am looking for a job in game, software or web development.
+      the moment I am looking for a job in software development.
 
       <br /><i
         class="bi bi-binoculars-fill"

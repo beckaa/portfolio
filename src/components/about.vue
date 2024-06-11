@@ -6,7 +6,7 @@
       <img src="../assets/me.jpg" id="mypicture" />
       <p>
         Hi, I am Anja. Recently, I graduated with a bachelor's degree from the University of
-        Stuttgart. I am looking for a job in game, software or web development to further enhance my skills.
+        Stuttgart. I am looking for a job in software development to further enhance my skills.
         In my studies I could gather the skills shown in the section below. <br /><br />
         If you are interested in working with me you can leave me message <br />
         <a href="https://www.linkedin.com/in/beckanja"
@@ -82,13 +82,6 @@
 
     <h1>My favourite Activities</h1>
     <div id="grid-container">
-      <div class="card">
-        <div class="card-body">
-          <img src="../assets/lolpic.png" class="card-img-top" />
-          <h4 class="card-title"><i class="bi bi-controller"></i>Gaming</h4>
-          <div class="card-text"></div>
-        </div>
-      </div>
       <div class="card">
         <div class="card-body">
           <img src="../assets/kalimba.jpg" class="card-img-top" />
