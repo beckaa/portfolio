@@ -4,7 +4,7 @@
     <div id="animated-content">
     <h2>Some short facts about me:</h2>
     <p id="main-content">
-      <i class="bi bi-mortarboard-fill"></i>I am a
+      <i class="bi bi-mortarboard-fill"></i>I recently
       graduated  as bachelor student. I studied media computer science at the University of
       Stuttgart.
 
