@@ -201,7 +201,7 @@ h4 {
 #about-content {
   text-align: left;
   justify-content: center;
-  margin: 2vh 15vw 1vh 15vw;
+  margin: 6vh 15vw 1vh 15vw;
   animation-name: appear;
   animation-duration: 4.5s;
   animation-fill-mode: both;

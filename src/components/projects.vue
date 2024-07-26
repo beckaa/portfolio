@@ -63,7 +63,7 @@ export default defineComponent({
 #pro-content {
   text-align: left;
   justify-content: center;
-  margin: 2vh 15vw 1vh 15vw;
+  margin: 6vh 15vw 1vh 15vw;
   color: white;
   animation-name: appear;
   animation-duration: 4.5s;

@@ -47,7 +47,8 @@
 
 export default defineComponent({
   name: "home"
-})</script>
+})
+</script>
 
 <style scoped>
 @keyframes blink {
