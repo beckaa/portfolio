@@ -17,7 +17,7 @@
       ></i
       >If you like this page and are interested in me as a person, then continue exploring.
     </p>
-    <router-link to="/about" class="btn btn-primary btn-lg">Get to know me !!</router-link>
+    <router-link to="/about" class="btn btn-primary btn-lg">Get to know me !</router-link>
     <div id="developing-info">Developed with:
     <svg
       height="auto"
