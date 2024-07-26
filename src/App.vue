@@ -41,7 +41,7 @@ h1
   color: rgb(235, 235, 240);
   margin-top: 20px;
   font-family: "Brush Script MT", cursive;
-  font-size: 4rem;
+  font-size: 3.2rem;
 }
 body {
   background-color: rgb(35, 35, 35);
@@ -59,7 +59,6 @@ header {
   min-width: 100vw;
 }
 footer {
-  height: 5vh;
   max-height: 40px;
   background: rgb(56, 55, 55);
   color: white;

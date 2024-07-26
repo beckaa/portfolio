@@ -14,6 +14,12 @@ export default defineComponent({
     <div id="box">
       <div class="cv-point">
         <div class="date">
+          <h3><i class="bi bi-rocket-takeoff-fill"></i>01/2024-today</h3>
+        </div>
+        <div class="title"><h4>Stage of Orientation/ Application Phase</h4></div>
+      </div>
+      <div class="cv-point">
+        <div class="date">
           <h3><i class="bi bi-mortarboard-fill"></i>10/2018-12/2023</h3>
         </div>
         <div class="title"><h4>Bachelor of Science - Media Computer Science</h4></div>
@@ -63,7 +69,7 @@ export default defineComponent({
   margin-bottom: 3rem;
 }
 #box {
-  background: rgba(33, 33, 33, 0.671);
+  background: rgba(33, 33, 33, 0.9);
   border-radius: 10px;
   padding: 1rem;
   margin-bottom: 6rem;
@@ -77,7 +83,7 @@ export default defineComponent({
   animation-duration: 5s;
 }
 .bi {
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: rgb(8, 218, 225);
   margin-right: 0.5rem;
   vertical-align: middle;

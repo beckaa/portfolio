@@ -121,7 +121,7 @@ export default defineComponent({
 #quote{
   text-align: center;
   font-family: "Brush Script MT", cursive;
-  font-size: 3rem;
+  font-size: 2.2rem;
   background: -webkit-linear-gradient(left,rgb(132, 132, 132) 30%,rgb(220, 220, 220) 50%, rgb(95, 94, 94) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

@@ -5,12 +5,11 @@
     <h2>Some short facts about me:</h2>
     <p id="main-content">
       <i class="bi bi-mortarboard-fill"></i>I am a
-      graduated bachelor thesis student. I studied media computer science at the University of
+      graduated  as bachelor student. I studied media computer science at the University of
       Stuttgart.
 
       <br />
-      <i class="bi bi-search"></i>At
-      the moment I am looking for a job in software development.
+      <i class="bi bi-search"></i>I love programming. That's why I am looking for a job in software development.
 
       <br /><i
         class="bi bi-binoculars-fill"
@@ -69,7 +68,6 @@ export default defineComponent({
 h1{
   color: rgb(255, 255, 255);
   font-family: 'Brush Script MT', cursive;
-  font-size: 5rem;
 }
 h2{
   color: rgb(205, 206, 234);
@@ -96,7 +94,7 @@ h2{
 #welcome {
   text-align: left;
   justify-content: center;
-  margin: 2vh 15vw 1vh 15vw;
+  margin: 6vh 15vw 1vh 15vw;
 
 }
 </style>
